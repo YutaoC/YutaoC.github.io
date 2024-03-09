@@ -15,7 +15,7 @@ h2 {text-align: center;}
 </style>
 
 <h2>Submitted Papers</h2>
-{% submitted %}
+{% bibliography %}
 
 <h2>Journal Papers</h2>
 {% journal %}
