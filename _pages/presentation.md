@@ -13,8 +13,12 @@ h2 {text-align: center;}
 
 <h2>Tutorials</h2>
 
-  1. Title(links), Place
+<ol>
+  <li>Title(links), Place</li>
+</ol>
 
 <h2>Talks</h2>
 
-  1. Title(links), Place
+<ol>
+  <li>Title(links), Place</li>
+</ol>
