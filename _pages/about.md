@@ -2,13 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Postdoctoral researcher</a> @ Tsinghua University<br>[<a href='https://scholar.google.com/citations?user=n51WXUgAAAAJ&hl=en&oi=ao'>Google Scholar</a>]
+subtitle: <a href='#'>Postdoctoral researcher</a> @ Tsinghua University
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
+    <p>[<a href='https://scholar.google.com/citations?user=n51WXUgAAAAJ&hl=en&oi=ao'>Google Scholar</a>]</p>
     <p>cheny1995@tsinghua.edu.cn</p>
 
 news: true # includes a list of news items

@@ -7,6 +7,8 @@ nav: true
 nav_order: 6
 ---
 
+---
+
 ## current course
   - Semanster: Code: Name
   
