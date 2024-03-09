@@ -9,18 +9,15 @@ nav_order: 2
 
 <!-- _pages/publications.md -->
 <div class="publications">
-<style>
-h1 {text-align: center;}
-</style>
 
 
-<h1>Submitted Papers</h1>
+<h1 style="text-align:center;">Submitted Papers</h1>
 {% bibliography_sub %}
 
-<h1>Journal Papers</h1>
+<h1 style="text-align:center;">Journal Papers</h1>
 {% bibliography_jour %}
 
-<h1>Conference Papers</h1>
+<h1 style="text-align:center;">Conference Papers</h1>
 {% bibliography_conf %}
 
 </div>

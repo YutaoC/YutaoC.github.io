@@ -19,9 +19,8 @@ social: false # includes social icons at the bottom of the page
 
 Write the biography here.
 
----
 
-### research
+### Research
 Communication Networks, Semantic Communications, Optimization
 
 *Recent focus:*

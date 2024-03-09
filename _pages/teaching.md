@@ -4,17 +4,13 @@ permalink: /teaching/
 title: Teaching
 description:
 nav: true
-nav_order: 6
+nav_order: 5
 ---
 
-<style>
-h1 {text-align: center;}
-</style>
-
-<h1>Current Courses</h1>
+<h1 style="text-align:center;">Current Courses</h1>
 
   - Semanster: Code: Name
   
-<h1>Past Courses</h1>
+<h1 style="text-align:center;">Past Courses</h1>
 
   - Semanster: Code: Name
