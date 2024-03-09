@@ -15,12 +15,12 @@ h1 {text-align: center;}
 </style>
 
 <h1>Submitted Papers</h1>
-{% bibliographysub %}
+{% bibliography %}
 
 <h1>Journal Papers</h1>
 {% bibliography %}
 
 <h1>Conference Papers</h1>
-{% bibliographyconf %}
+{% bibliography %}
 
 </div>
