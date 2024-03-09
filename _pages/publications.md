@@ -4,12 +4,12 @@ permalink: /publications/
 title: Publications
 description:
 sections:
+  - bibquery: "@misc"
+    text: "Submitted Papers"
   - bibquery: "@article"
     text: "Journal Papers"
   - bibquery: "@inproceedings"
     text: "Conference Papers"
-  - bibquery: "@misc"
-    text: "Submitted Papers"
 years: [2024, 2023, 2022, 2021, 2020]
 nav: true
 nav_order: 2
@@ -20,7 +20,7 @@ nav_order: 2
 
 {%- for section in page.sections %}
   <a id="{{section.text}}"></a>
-  <p class="bibtitle">{{section.text}}</p>
+  <h2 class="bibtitle">{{section.text}}</h2>
   {%- for y in page.years %}
 
     {%- comment -%}  Count bibliography in actual section and year {%- endcomment -%}
@@ -31,7 +31,6 @@ nav_order: 2
     {%- comment -%} If exist bibliography in actual section and year, print {%- endcomment -%}
     {%- if citecount !="0" %}
 
-      <h2 class="year">{{y}}</h2>
       {% bibliography -f {{site.scholar.bibliography}} -q {{section.bibquery}}[year={{y}}] %}
 
     {%- endif -%}
