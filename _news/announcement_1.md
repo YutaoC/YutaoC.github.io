@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Successfully defended my PhD dissertation today!
+Successfully defended my PhD dissertation!
