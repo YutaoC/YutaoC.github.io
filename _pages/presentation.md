@@ -8,8 +8,7 @@ nav_order: 3
 ---
 
 ## tutorials
-    ### topic
-        1. Title(links), Place
+    1. Title(links), Place
 
 ---
 

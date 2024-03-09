@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Postdoctoral researcher</a> @ Tsinghua University
+subtitle: <a href='#'>Postdoctoral researcher</a> @ Tsinghua University [<a href='https://scholar.google.com/citations?user=n51WXUgAAAAJ&hl=en&oi=ao'>Google Scholar</a>]
 
 profile:
   align: right
@@ -22,9 +22,8 @@ Write the biography here.
 
 ---
 
-## Research
+### Research
 Communication Networks, Semantic Communications, Optimization
 
-Recent focus:
-
-Age of Incorrect Information
+*Recent focus*:
+  - Age of Incorrect Information
