@@ -9,10 +9,10 @@ nav_order: 3
 
 ---
 
-## tutorials
+<h1>Tutorials</hi>
+
   1. Title(links), Place
 
----
+<h1>Talks</hi>
 
-## talks
   1. Title(links), Place

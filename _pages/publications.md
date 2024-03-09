@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /publications/
-title: Publications
-description: More details can be found at [Google Scholar]
+title:
+description:
 nav: true
 nav_order: 2
 ---
