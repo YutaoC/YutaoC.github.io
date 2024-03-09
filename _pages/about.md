@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Postdoctoral researcher</a> @ Tsinghua University
+subtitle: <a>Postdoctoral researcher</a> @ Tsinghua University
 
 profile:
   align: right
