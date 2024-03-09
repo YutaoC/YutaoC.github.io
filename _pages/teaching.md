@@ -9,10 +9,10 @@ nav_order: 5
 
 <div class="publications">
 
-<h1>Current Course</h1>
+<h2>Current Course</h2>
 
   - Semanster: Code: Name
 
-<h1>Past Course</h1>
+<h2>Past Course</h2>
 
   - Semanster: Code: Name
