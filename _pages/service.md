@@ -8,16 +8,16 @@ nav_order: 4
 ---
 
 <style>
-h2 {text-align: center;}
+h3 {text-align: center;}
 </style>
 
-<h2>Category</h2>
+<h3>Category</h3>
 
 <ul>
   <li>Example</li>
 </ul>  
 
-<h2>Category</h2>
+<h3>Category</h3>
 
 <ul>
   <li>Example</li>

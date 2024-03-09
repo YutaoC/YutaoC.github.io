@@ -18,9 +18,13 @@ nav_order: 2
 <!-- _pages/publications.md -->
 <div class="publications">
 
+<style>
+h3 {text-align: center;}
+</style>
+
 {%- for section in page.sections %}
   <a id="{{section.text}}"></a>
-  <h2 class="bibtitle">{{section.text}}</h2>
+  <h3 class="bibtitle">{{section.text}}</h3>
   {%- for y in page.years %}
 
     {%- comment -%}  Count bibliography in actual section and year {%- endcomment -%}

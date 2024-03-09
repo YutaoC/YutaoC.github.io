@@ -8,16 +8,16 @@ nav_order: 5
 ---
 
 <style>
-h2 {text-align: center;}
+h3 {text-align: center;}
 </style>
 
-<h2>Current Course</h2>
+<h3>Current Course</h3>
 
 <ul>
   <li>Semanster: Code: Name</li>
 </ul>
 
-<h2>Past Course</h2>
+<h3>Past Course</h3>
 
 <ul>
   <li>Semanster: Code: Name</li>
