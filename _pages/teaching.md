@@ -7,10 +7,10 @@ nav: true
 nav_order: 5
 ---
 
-<h1>Current Course</hi>
+<h1>Current Course</h1>
 
   - Semanster: Code: Name
 
-<h1>Past Course</hi>
+<h1>Past Course</h1>
 
   - Semanster: Code: Name
