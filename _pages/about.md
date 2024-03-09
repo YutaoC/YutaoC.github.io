@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: `Postdoctoral researcher` @ Tsinghua University
+subtitle: <a href='#'>Postdoctoral researcher</a> @ Tsinghua University
 
 profile:
   align: right
@@ -19,3 +19,12 @@ social: false # includes social icons at the bottom of the page
 ---
 
 Write the biography here.
+
+---
+
+## Research
+Communication Networks, Semantic Communications, Optimization
+
+Recent focus:
+
+Age of Incorrect Information
