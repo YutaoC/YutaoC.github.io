@@ -11,16 +11,16 @@ nav_order: 2
 <div class="publications">
 
 <style>
-h1 {text-align: center;}
+h2 {text-align: center;}
 </style>
 
-<h1>Submitted Papers</h1>
+<h2>Submitted Papers</h2>
 {% bibliography %}
 
-<h1>Journal Papers</h1>
+<h2>Journal Papers</h2>
 {% bibliography %}
 
-<h1>Conference Papers</h1>
+<h2>Conference Papers</h2>
 {% bibliography %}
 
 </div>

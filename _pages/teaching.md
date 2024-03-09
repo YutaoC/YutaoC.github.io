@@ -7,6 +7,8 @@ nav: true
 nav_order: 5
 ---
 
+<div class="publications">
+
 <h1>Current Course</h1>
 
   - Semanster: Code: Name
