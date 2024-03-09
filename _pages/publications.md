@@ -12,12 +12,12 @@ nav_order: 2
 
 
 <h1 style="text-align:center;">Submitted Papers</h1>
-{% bibliography_sub %}
+{% bibliographysub %}
 
 <h1 style="text-align:center;">Journal Papers</h1>
-{% bibliography_jour %}
+{% bibliographyjour %}
 
 <h1 style="text-align:center;">Conference Papers</h1>
-{% bibliography_conf %}
+{% bibliographyconf %}
 
 </div>
