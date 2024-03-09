@@ -18,7 +18,7 @@ h1 {text-align: center;}
 {% bibliographysub %}
 
 <h1>Journal Papers</h1>
-{% bibliographyjour %}
+{% bibliography %}
 
 <h1>Conference Papers</h1>
 {% bibliographyconf %}
