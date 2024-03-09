@@ -293,8 +293,6 @@ scholar:
 
   source: /_bibliography/
   bibliography: bibliography.bib
-  journal: journal.bib
-  conference: conference.bib 
 
   bibliography_template: bib
   # Note: if you have latex math in your bibtex, the latex filter
