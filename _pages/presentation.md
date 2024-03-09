@@ -7,7 +7,9 @@ nav: true
 nav_order: 3
 ---
 
-<div class="publications">
+<style>
+h2 {text-align: center;}
+</style>
 
 <h2>Tutorials</h2>
 

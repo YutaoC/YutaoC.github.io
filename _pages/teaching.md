@@ -9,6 +9,10 @@ nav_order: 5
 
 <div class="publications">
 
+<style>
+h2 {text-align: center;}
+</style>
+
 <h2>Current Course</h2>
 
   - Semanster: Code: Name
