@@ -2,16 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Postdoctoral researcher</a> @ Tsinghua University [<a href='https://scholar.google.com/citations?user=n51WXUgAAAAJ&hl=en&oi=ao'>Google Scholar</a>]
+subtitle: <a href='#'>Postdoctoral researcher</a> @ Tsinghua University<br>[<a href='https://scholar.google.com/citations?user=n51WXUgAAAAJ&hl=en&oi=ao'>Google Scholar</a>]
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Department of Electronic Engineering</p>
-    <p>Tsinghua University</p>
-    <p>Email: cheny1995@tsinghua.edu.cn</p>
+    <p>cheny1995 at tsinghua.edu.cn</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -22,8 +20,9 @@ Write the biography here.
 
 ---
 
-### Research
+### research
 Communication Networks, Semantic Communications, Optimization
 
-*Recent focus*:
+*Recent focus:*
+  - Koopman operator theory
   - Age of Incorrect Information

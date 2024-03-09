@@ -8,8 +8,9 @@ nav_order: 6
 ---
 
 ## current course
-
+  - Semanster: Code: Name
+  
 ---
 
 ## past course
-    - Semanster: Code: Name
+  - Semanster: Code: Name
