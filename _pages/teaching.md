@@ -7,12 +7,14 @@ nav: true
 nav_order: 6
 ---
 
----
+<style>
+h1 {text-align: center;}
+</style>
 
-## current course
+<h1>Current Courses</h1>
+
   - Semanster: Code: Name
   
----
+<h1>Past Courses</h1>
 
-## past course
   - Semanster: Code: Name

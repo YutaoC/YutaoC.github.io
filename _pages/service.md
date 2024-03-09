@@ -7,12 +7,14 @@ nav: true
 nav_order: 4
 ---
 
----
+<style>
+h1 {text-align: center;}
+</style>
 
-## category
+<h1>Category1</h1>
+  
   - Example
 
----
-
-## category
+<h1>Category1</h1>
+  
   - Example
