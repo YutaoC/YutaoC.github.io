@@ -7,6 +7,8 @@ nav: true
 nav_order: 5
 ---
 
+<div class="teaching">
+
 <style>
 h1 {text-align: center;}
 </style>
