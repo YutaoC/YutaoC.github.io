@@ -292,7 +292,7 @@ scholar:
   locale: en
 
   source: /_bibliography/
-  submitted: submitted.bib
+  bibliography: bibliography.bib
   journal: journal.bib
   conference: conference.bib 
 
